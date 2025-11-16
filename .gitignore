@@ -1,0 +1,30 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+
+# Build / Generated files
+dist/
+build/
+public/
+
+# Logs
+*.log
+
+# Backup / Temp files
+*.tmp
+*.bak
+*.orig
+
+# Markdown preview / cache
+.md.cache/
+.cache/
+
+# Misc
+*.local

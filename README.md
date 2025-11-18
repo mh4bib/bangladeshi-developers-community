@@ -25,6 +25,13 @@ A community-driven list of **Bangladeshi developers** designed to help everyone 
 - **Additional Links**: [Medium](https://medium.com/@alamgir.ahosain)
  <br><br>
 
-
+###  2.  Mahiuddin Habib
+- **Email**: mh.habib137@gmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/mh4bib
+- **GitHub**: https://github.com/mh4bib
+- **Portfolio / Personal Website**:  https://mh4bib.vercel.app
+- **Technologies**: Java,Spring Boot
+- **Short Description**: Final year CSE student passionate about Java and Spring Boot, and actively exploring AI/ML & cloud.
+ <br><br>
 
 ---
